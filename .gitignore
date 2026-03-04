@@ -1,0 +1,23 @@
+### Python ###
+# Manimgl files
+__pycache__
+.resource
+.vscode
+bak
+custom
+latex_cache
+logo
+manimgl.egg-info
+manimlib
+once_useful_constructs
+outside_videos
+venv
+custom_config.yml
+example_scenes.py
+manim_imports_ext.py
+
+.DS_Store
+
+# example videos
+_2025
+
